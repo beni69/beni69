@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Ben 👋
 
-# ![The karesz](https://media1.tenor.com/images/9de89a86ce7453634bfcf9d440b66422/tenor.gif?itemid=19862446)
+Just a student with way too much free time
+
+#### Interests:
+* nodejs
+* the web (react)
+* linux *(i use arch btw)*
+* *and more*
+
+[![beni69's GitHub stats](https://github-readme-stats.vercel.app/api?username=beni69&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beni69&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **beni69/beni69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
