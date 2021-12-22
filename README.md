@@ -3,10 +3,10 @@
 Just a student with way too much free time
 
 #### Interests:
-* nodejs
-* the web (react)
-* linux *(i use arch btw)*
-* *and more*
+* rust
+* anything javascript
+* linux *(more specifically arch btw)*
+* some hardware projects sometimes
 
 [![beni69's GitHub stats](https://github-readme-stats.vercel.app/api?username=beni69&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
