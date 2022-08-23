@@ -4,13 +4,12 @@ Just a student with way too much free time
 
 #### Interests:
 * rust
-* anything javascript
-* linux *(more specifically arch btw)*
-* some hardware projects sometimes
+* web dev, typescript
+* linux *(currently experimenting with nixos)*
+* a hint of embedded development
 
-[![beni69's GitHub stats](https://github-readme-stats.vercel.app/api?username=beni69&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beni69&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=beni69&count_private=true&show_icons=true&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beni69&layout=compact&theme=github_dark&hide_border=true" />
 
 <!--
 **beni69/beni69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
